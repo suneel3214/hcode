@@ -1,0 +1,85 @@
+.font-weight-bold {
+	font-size: 15px;
+}
+
+.nav-item-hold i{
+	color: #fff;
+}
+
+i{
+	color: #000;
+}
+
+.sidebar-dark-purple .sidebar-left{
+	background: radial-gradient(100.99% 100.73% at 0 0, rgba(0, 196, 204, 0.725916) 0, #00c4cc 0.01%, rgba(0, 196, 204, 0) 100%), radial-gradient(68.47% 129.02% at 22.82% 97.71%, #6420ff 0, rgba(100, 32, 255, 0) 100%), radial-gradient(106.1% 249.18% at 0 0, #00c4cc 0, rgba(0, 196, 204, 0) 100%), radial-gradient(64.14% 115.13% at 5.49% 50%, #6420ff 0, rgba(100, 32, 255, 0) 100%), #7d2ae7 !important;
+}
+
+.card-icon-bg-primary [class^="i-"]{
+	color:  #ffc107;
+}
+
+.text-primary{
+	color:  #ffc107 !important;
+}
+
+.text-muted{
+	color: #000  !important;
+}
+
+.btn-outline-primary{
+	border-color: #ffc107 !important;
+	color: #000 !important;
+}
+
+.logo{
+	position: absolute;
+  top: 0px;
+}
+
+.delimg{
+		position: absolute;
+    top: -14px;
+  }
+
+.imgPro{
+		max-height: 57px;
+	  padding-left: 9px;
+}
+
+.navigation-left{
+	margin-top: 100px !important;
+}
+
+.submenu-area{
+	margin-top: 90px !important;
+}
+
+h5 > a{
+	color:  #000 !important;	
+}
+
+thead{
+  background-color: #369FDF;
+    color: #fff;
+}
+
+.productStausDrop,.userSearch,.feedbackSearch,.abuseSearch,.withdrawStausDrop{
+	padding: 5px;
+    background-color: #fff;
+    border-radius: 4px;
+    border-color: #9f9b9b;
+}
+
+select:focus-visible {
+    outline-offset: -50px;
+}
+
+.table_fields{
+	display: flex;
+	margin-bottom: 10px;
+}
+
+.dataTables_filter > input{
+	padding: 5px;
+	margin-left: 10px;
+}
